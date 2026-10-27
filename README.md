@@ -7,7 +7,7 @@ git clone git@github.com:Abduraxmonnn/car-parking-counter.git
 ```
 - Goto the cloned folder.
 ```
-cd car-parking-finder
+cd Car-Parking-Counter
 
 ```
 - Upgrade pip with mentioned command below.
